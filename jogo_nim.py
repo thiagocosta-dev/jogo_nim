@@ -1,5 +1,6 @@
 '''
 AUTOR: THIAGO COSTA PEREIRA
+EMAIL: thiago.devpython@gmail.com
 
 Exercício feito para o curso de INTRODUÇÃO À CIÊNCIA DA COMPUTAÇÃO COM PYTHON, oferecido pela USP, através do Coursera.
 
