@@ -29,7 +29,7 @@ Caso isso não seja possível, deverá tirar o número máximo de peças possív
 Realiza três partidas seguidas do jogo e, ao final, mostra o placar dessas três partidas e indica o vencedor do campeonato.
 
 '''
-
+ # -*- coding: utf-8 -*-
 
 def computador_escolhe_jogada(n, m):  # Função que devolve um inteiro correspondente à próxima jogada do computador
     computadorRemove = 1              # de acordo com a estratégia vencedora.
