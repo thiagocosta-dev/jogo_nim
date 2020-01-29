@@ -1,4 +1,5 @@
 # AUTOR: Thiago Costa Pereira
+# Email: thiago.devpython@gmail.com
 
 print('=-' * 20)
 print('-- GERADOR DE SENHA --'.center(40))
