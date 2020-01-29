@@ -1,3 +1,5 @@
+# AUTOR: Thiago Costa Pereira
+
 print('=-' * 20)
 print('-- GERADOR DE SENHA --'.center(40))
 print('=-' * 20)
